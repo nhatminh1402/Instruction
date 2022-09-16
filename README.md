@@ -1,5 +1,5 @@
 # GITHUB TUTORIAH
- ####- CÁC BƯỚC ĐỂ TẠO MỘT REPOSITORY -
+ #### - CÁC BƯỚC ĐỂ TẠO MỘT REPOSITORY -
 
 1. TẠO MỘT PROJECT MỚI: 
 
