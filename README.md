@@ -1,14 +1,19 @@
 <h1> GITHUB TUTORIAH<h1>
 - CÁC BƯỚC ĐỂ TẠO MỘT REPOSITORY :
+
 1. TẠO MỘT PROJECT MỚI: 
 
     1. New một Repository trên github (không add file README/Gitignore/Description).
+
     - Tên Repository phải trùng với tên Project ở local.
     
     2. Tạo project ở máy local (tên phải trùng với tên Repo vừa đặt trên github).
     
     3. Tạo file có tên [.gitignore]. Với Save as type là ALL FILE.
-    - Truy cập <http://gitignore.io> để chọn IDE mình đang lập trình. Sau đó nhấn create để copy file gitignore vào file gitignore ở local. Mục đích chỉ push những file quan trọng của project chứ code, không push những file IDE tạo ra lên Github.
+
+    - Truy cập <http://gitignore.io> để chọn IDE mình đang lập trình.
+
+    - Sau đó nhấn create để copy file gitignore vào file gitignore ở local. Mục đích chỉ push những file quan trọng của project chứ code, không push những file IDE tạo ra lên Github.
     
     4. Tạo file README.md.
     
@@ -25,4 +30,5 @@
     2. Thành công nếu trong Project sinh ra một thư mục ẩn .git.
     
 ![](https://i.pinimg.com/736x/a3/5d/5e/a35d5e7561a9afbf2040c4a0c7c084e8.jpg)
+
 3. 
